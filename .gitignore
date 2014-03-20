@@ -2,6 +2,12 @@
 *.apk
 *.ap_
 
+# Aaron Jay Eclipse
+.install.xml
+.lock
+.log
+.markers
+
 # files for the dex VM
 *.dex
 

@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/aaronjay/Documents/SageTask-Android/.metadata/.plugins/org.eclipse.jdt.core
+2609562386.index
+3657598576.index
+3410866276.index
